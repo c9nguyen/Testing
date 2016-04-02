@@ -6,4 +6,11 @@ public class Testing {
 
 	}
 
+	public void testMethod() {
+		//do another thing
+	}
+	
+	public void testMethod2() {
+		
+	}
 }
