@@ -5,9 +5,12 @@ public class Testing {
 		// TODO Auto-generated method stub
 		// Do something
 	}
-	
+
 	public void testMethod() {
+		//do another thing
+	}
+	
+	public void testMethod2() {
 		
 	}
-
 }
